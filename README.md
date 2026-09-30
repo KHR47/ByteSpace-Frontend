@@ -2,6 +2,8 @@
 
 ByteSpace is a modern online learning and course platform built with Next.js, React, TypeScript, and Tailwind CSS.
 
+**Live Demo:** [https://byte-space-frontend-tau.vercel.app/](https://byte-space-frontend-tau.vercel.app/)
+
 ## Getting Started
 
 First, install dependencies:
